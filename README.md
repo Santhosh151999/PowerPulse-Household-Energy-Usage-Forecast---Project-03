@@ -31,3 +31,7 @@ MySQL backend for efficient data handling
 Languages: Python, SQL
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Streamlit, MySQL Connector
 Tools: Jupyter Notebook, Visual Studio Code, MySQL
+
+
+📦 Dataset and Model: [Download from Google Drive](https://drive.google.com/drive/folders/1sbBsBG9uIHLe-242a-ZjTAsCGPDq480b)
+
